@@ -30,9 +30,9 @@ Naive Bayes classifier
 
 
 
-| Class      | F1 score      | Precision     | Recall|
-|            | ------------- |:-------------:| -----:|
-| Subjective | 0.9116781158  | 0.894990366089| 0.929 |
-| Objective  | 0.908256880734| 0.926195426195| 0.891 |
+| Class| F1 score      | Precision     | Recall|
+| ---  | --- |---| ---|
+| `Subjective` | 0.9116781158  | 0.894990366089| 0.929 |
+| `Objective`  | 0.908256880734| 0.926195426195| 0.891 |
 
 
