@@ -23,13 +23,6 @@ Naive Bayes classifier
 
 *Accuracy:* 0.91
 
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-
-
-
 | Class| F1 score      | Precision     | Recall|
 | ---  | --- |---| ---|
 | `Subjective` | 0.9116781158  | 0.894990366089| 0.929 |
