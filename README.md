@@ -47,3 +47,10 @@ http://www.cs.jhu.edu/~svitlana/papers/VB_ACL16.pdf
 [3] Twitter Sentiment Dataset, consisting of 1,578,627 classified tweets, each row is marked as 1 for positive sentiment and 0 for negative sentiment:
 
 http://thinknook.com/twitter-sentiment-analysis-training-corpus-dataset-2012-09-22/
+
+[4] Opinion lexicon 
+Bing Liu, Minqing Hu and Junsheng Cheng. "Opinion Observer: Analyzing and Comparing Opinions on the Web." Proceedings of the 14th International World Wide Web conference (WWW-2005), May 10-14, 2005, Chiba, Japan.
+
+- Negative words: https://github.com/jeffreybreen/twitter-sentiment-analysis-tutorial-201107/blob/master/data/opinion-lexicon-English/negative-words.txt
+
+- Positive words: https://github.com/jeffreybreen/twitter-sentiment-analysis-tutorial-201107/blob/master/data/opinion-lexicon-English/positive-words.txt
