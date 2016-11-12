@@ -43,3 +43,7 @@ http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf
 [2] Volkova, Svitlana, and Yoram Bachrach. "Inferring Perceived Demographics from User Emotional Tone and User-Environment Emotional Contrast." Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics, ACL. 2016.
 
 http://www.cs.jhu.edu/~svitlana/papers/VB_ACL16.pdf
+
+[3] Twitter Sentiment Dataset, consisting of 1,578,627 classified tweets, each row is marked as 1 for positive sentiment and 0 for negative sentiment:
+
+http://thinknook.com/twitter-sentiment-analysis-training-corpus-dataset-2012-09-22/
