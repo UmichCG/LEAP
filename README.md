@@ -34,7 +34,7 @@ Naive Bayes classifier
 
 *software-psycho-demographics* contains code sentiment and emotion detection based on this paper [2].
 
-References:
+**References:**
 
 [1] Hutto, Clayton J., and Eric Gilbert. "Vader: A parsimonious rule-based model for sentiment analysis of social media text." Eighth International AAAI Conference on Weblogs and Social Media. 2014.
 
