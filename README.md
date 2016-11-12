@@ -58,3 +58,7 @@ Bing Liu, Minqing Hu and Junsheng Cheng. "Opinion Observer: Analyzing and Compar
 [5] LSTM Networks for Sentiment Analysis:
 
 http://deeplearning.net/tutorial/lstm.html
+
+[6] Pang, Bo, and Lillian Lee. "Opinion mining and sentiment analysis." Foundations and trends in information retrieval 2.1-2 (2008): 1-135.
+
+http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf
