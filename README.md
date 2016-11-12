@@ -62,3 +62,7 @@ http://deeplearning.net/tutorial/lstm.html
 [6] Pang, Bo, and Lillian Lee. "Opinion mining and sentiment analysis." Foundations and trends in information retrieval 2.1-2 (2008): 1-135.
 
 http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf
+
+[7] Gilbert, CJ Hutto Eric. "VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text." (2014).
+
+http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf
