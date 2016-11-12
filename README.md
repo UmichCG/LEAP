@@ -6,7 +6,7 @@ The current implementation focuses on sentiment and emotion analysis.
 
 1) <b>Sentiment Analysis Experiments</b>
 
-Experiments carried on the NLTK subjectivity dataset, consisting of 5,000 objective and 5,000 subjective tweets.
+*sentiment.py* includes experiments carried on the NLTK subjectivity dataset, consisting of 5,000 objective and 5,000 subjective tweets.
 
 The dataset was split into:
 - training: 4,000 objective and 4,000 subjective tweets
@@ -30,3 +30,8 @@ Naive Bayes classifier
 | `Objective`  | 0.908256880734| 0.926195426195| 0.891 |
 
 
+*sentiment_intensity_analyzer.py* contains code for classifying tweets into one of the classes positive/negative/neutral, based on the Vader Sentiment Analsys lexiconi [1].
+
+[1] Hutto, Clayton J., and Eric Gilbert. "Vader: A parsimonious rule-based model for sentiment analysis of social media text." Eighth International AAAI Conference on Weblogs and Social Media. 2014.
+
+http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf
