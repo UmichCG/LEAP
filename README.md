@@ -54,3 +54,7 @@ Bing Liu, Minqing Hu and Junsheng Cheng. "Opinion Observer: Analyzing and Compar
 - Negative words: https://github.com/jeffreybreen/twitter-sentiment-analysis-tutorial-201107/blob/master/data/opinion-lexicon-English/negative-words.txt
 
 - Positive words: https://github.com/jeffreybreen/twitter-sentiment-analysis-tutorial-201107/blob/master/data/opinion-lexicon-English/positive-words.txt
+
+[5] LSTM Networks for Sentiment Analysis:
+
+http://deeplearning.net/tutorial/lstm.html
