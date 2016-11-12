@@ -29,9 +29,7 @@ paragraph = "It was one of the worst movies I've seen, despite good reviews. \
 lines_list = tokenize.sent_tokenize(paragraph)
 sentences.extend(lines_list)
 
-tricky_sentences = ["Most automated sentiment analysis tools are shit.",
-		"VADER sentiment analysis is the shit.",
-		"Sentiment analysis has never been good.",
+tricky_sentences = ["Sentiment analysis has never been good.",
 		"Sentiment analysis with VADER has never been this good.",
 		"Warren Beatty has never been so entertaining.",
 		"I won't say that the movie is astounding and I wouldn't claim that \
