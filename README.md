@@ -7,13 +7,14 @@ The current implementation focuses on sentiment and emotion analysis.
 1) <b>Sentiment Analysis Experiments</b>
 
 Experiments carried on the NLTK subjectivity dataset, consisting of 5,000 objective and 5,000 subjective tweets.
+
 The dataset was split into:
 - training: 4,000 objective and 4,000 subjective tweets
 - testing: 1,000 objective and 1,000 objective tweets
 
 <b>Features:</b>
  
-Unigram features, 4,180 in total 
+Unigram features: 4,180 in total 
 
 <b>Learning method:</b>
  
