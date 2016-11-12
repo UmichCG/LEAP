@@ -1,2 +1,3 @@
 deep_learning_sentiment_analysis/imdb.dict.pkl
 deep_learning_sentiment_analysis/imdb.pkl
+deep_learning_sentiment_analysis/aclImdb/*
