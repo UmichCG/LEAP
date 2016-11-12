@@ -30,7 +30,7 @@ Naive Bayes classifier
 | `Objective`  | 0.908256880734| 0.926195426195| 0.891 |
 
 
-*sentiment_intensity_analyzer.py* contains code for classifying tweets into one of the classes positive/negative/neutral, based on the Vader Sentiment Analsys lexiconi [1].
+*sentiment_intensity_analyzer.py* contains code for classifying tweets into one of the classes **positive/negative/neutral**, based on the **Vader Sentiment Analsys lexicon** [1].
 
 [1] Hutto, Clayton J., and Eric Gilbert. "Vader: A parsimonious rule-based model for sentiment analysis of social media text." Eighth International AAAI Conference on Weblogs and Social Media. 2014.
 
